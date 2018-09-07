@@ -1,0 +1,2 @@
+# SEOULTECH_NOTICE_Receiver
+SEOULTECH_NOTICE_Receiver
