@@ -1,0 +1,36 @@
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\bin\Debug\information_receiver.exe.config
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\bin\Debug\information_receiver.exe
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\bin\Debug\information_receiver.pdb
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\bin\Debug\information_receiver.xml
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\obj\Debug\Interop.WinHttp.dll
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\obj\Debug\information_receiver.vbproj.ResolveComReference.cache
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\obj\Debug\information_receiver.Form1.resources
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\obj\Debug\information_receiver.Resources.resources
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\obj\Debug\information_receiver.vbproj.GenerateResource.Cache
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\obj\Debug\information_receiver.exe
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\obj\Debug\information_receiver.xml
+c:\users\its_1\documents\visual studio 2013\Projects\information_receiver\information_receiver\obj\Debug\information_receiver.pdb
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\bin\Debug\information_receiver.exe.config
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\obj\Debug\Interop.WinHttp.dll
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\obj\Debug\information_receiver.vbproj.ResolveComReference.cache
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\obj\Debug\information_receiver.exe
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\obj\Debug\information_receiver.xml
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\obj\Debug\information_receiver.pdb
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\bin\Debug\information_receiver.exe
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\bin\Debug\information_receiver.pdb
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\bin\Debug\information_receiver.xml
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\obj\Debug\information_receiver.Form1.resources
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\obj\Debug\information_receiver.Resources.resources
+C:\Users\ITS_1\Desktop\이예찬\information_receiver\information_receiver\obj\Debug\information_receiver.vbproj.GenerateResource.Cache
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Debug\Interop.WinHttp.dll
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Debug\information_receiver.vbproj.ResolveComReference.cache
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Debug\information_receiver.Form1.resources
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Debug\information_receiver.Resources.resources
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Debug\information_receiver.vbproj.GenerateResource.Cache
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\bin\Debug\SeoulTech Notice receiver.exe.config
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\bin\Debug\SeoulTech Notice receiver.exe
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\bin\Debug\SeoulTech Notice receiver.pdb
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\bin\Debug\SeoulTech Notice receiver.xml
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Debug\SeoulTech Notice receiver.exe
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Debug\SeoulTech Notice receiver.xml
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Debug\SeoulTech Notice receiver.pdb
