@@ -1,0 +1,12 @@
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Release\Interop.WinHttp.dll
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Release\information_receiver.vbproj.ResolveComReference.cache
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Release\information_receiver.Form1.resources
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Release\information_receiver.Resources.resources
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Release\information_receiver.vbproj.GenerateResource.Cache
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\bin\Release\SeoulTech Notice receiver.exe.config
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\bin\Release\SeoulTech Notice receiver.exe
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\bin\Release\SeoulTech Notice receiver.pdb
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\bin\Release\SeoulTech Notice receiver.xml
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Release\SeoulTech Notice receiver.exe
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Release\SeoulTech Notice receiver.xml
+C:\Users\ITS_1\Desktop\이예찬\Vb\information_receiver\information_receiver\obj\Release\SeoulTech Notice receiver.pdb
